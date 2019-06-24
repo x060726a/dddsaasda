@@ -1,0 +1,691 @@
+[
+  {
+    "bigClass": "猜双面",
+    "data": [
+      {
+        "title": "第一球",
+        "detail": [
+          {
+            "name": "大",
+            "winning": "1.99",
+            "class": "第一球",
+            "eval":"big",
+            "arguments":[1]
+          },
+          {
+            "name": "小",
+            "winning": "1.99",
+            "class": "第一球",
+            "eval":"small",
+            "arguments":[1]
+          },
+          {
+            "name": "单",
+            "winning": "1.99",
+            "class": "第一球",
+            "eval":"odd",
+            "arguments":[1]
+          },
+          {
+            "name": "双",
+            "winning": "1.99",
+            "class": "第一球",
+            "eval":"even",
+            "arguments":[1]
+          },
+          {
+            "name": "质",
+            "winning": "1.99",
+            "class": "第一球",
+            "eval":"odd",
+            "arguments":[1]
+          },
+          {
+            "name": "合",
+            "winning": "1.99",
+            "class": "第一球",
+            "eval":"even",
+            "arguments":[1]
+          }
+        ]
+      },
+      {
+        "title": "第二球",
+        "detail": [
+          {
+            "name": "大",
+            "winning": "1.99",
+            "class": "第二球",
+            "eval":"big",
+            "arguments":[2]
+          },
+          {
+            "name": "小",
+            "winning": "1.99",
+            "class": "第二球",
+            "eval":"small",
+            "arguments":[2]
+          },
+          {
+            "name": "单",
+            "winning": "1.99",
+            "class": "第二球",
+            "eval":"odd",
+            "arguments":[2]
+          },
+          {
+            "name": "双",
+            "winning": "1.99",
+            "class": "第二球",
+            "eval":"even",
+            "arguments":[2]
+          },
+          {
+            "name": "质",
+            "winning": "1.99",
+            "class": "第一球",
+            "eval":"odd",
+            "arguments":[2]
+          },
+          {
+            "name": "合",
+            "winning": "1.99",
+            "class": "第一球",
+            "eval":"even",
+            "arguments":[2]
+          }
+        ]
+      },
+      {
+        "title": "第三球",
+        "detail": [
+          {
+            "name": "大",
+            "winning": "1.99",
+            "class": "第三球",
+            "eval":"big",
+            "arguments":[3]
+          },
+          {
+            "name": "小",
+            "winning": "1.99",
+            "class": "第三球",
+            "eval":"small",
+            "arguments":[3]
+          },
+          {
+            "name": "单",
+            "winning": "1.99",
+            "class": "第三球",
+            "eval":"odd",
+            "arguments":[3]
+          },
+          {
+            "name": "双",
+            "winning": "1.99",
+            "class": "第三球",
+            "eval":"even",
+            "arguments":[3]
+          },
+          {
+            "name": "质",
+            "winning": "1.99",
+            "class": "第一球",
+            "eval":"odd",
+            "arguments":[3]
+          },
+          {
+            "name": "合",
+            "winning": "1.99",
+            "class": "第一球",
+            "eval":"even",
+            "arguments":[3]
+          }
+        ]
+      },
+      {
+        "title": "第四球",
+        "detail": [
+          {
+            "name": "大",
+            "winning": "1.99",
+            "class": "第四球",
+            "eval":"big",
+            "arguments":[4]
+          },
+          {
+            "name": "小",
+            "winning": "1.99",
+            "class": "第四球",
+            "eval":"small",
+            "arguments":[4]
+          },
+          {
+            "name": "单",
+            "winning": "1.99",
+            "class": "第四球",
+            "eval":"odd",
+            "arguments":[4]
+          },
+          {
+            "name": "双",
+            "winning": "1.99",
+            "class": "第四球",
+            "eval":"even",
+            "arguments":[4]
+          },
+          {
+            "name": "质",
+            "winning": "1.99",
+            "class": "第一球",
+            "eval":"odd",
+            "arguments":[4]
+          },
+          {
+            "name": "合",
+            "winning": "1.99",
+            "class": "第一球",
+            "eval":"even",
+            "arguments":[4]
+          }
+        ]
+      },
+      {
+        "title": "第五球",
+        "detail": [
+          {
+            "name": "大",
+            "winning": "1.99",
+            "class": "第五球",
+            "eval":"big",
+            "arguments":[5]
+          },
+          {
+            "name": "小",
+            "winning": "1.99",
+            "class": "第五球",
+            "eval":"small",
+            "arguments":[5]
+          },
+          {
+            "name": "单",
+            "winning": "1.99",
+            "class": "第五球",
+            "eval":"odd",
+            "arguments":[5]
+          },
+          {
+            "name": "双",
+            "winning": "1.99",
+            "class": "第五球",
+            "eval":"event",
+            "arguments":[5]
+          },
+          {
+            "name": "质",
+            "winning": "1.99",
+            "class": "第一球",
+            "eval":"odd",
+            "arguments":[5]
+          },
+          {
+            "name": "合",
+            "winning": "1.99",
+            "class": "第一球",
+            "eval":"even",
+            "arguments":[5]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bigClass": "猜数字",
+    "data": [
+      {
+        "title": "第一球",
+        "detail": [
+          {
+            "name": "0",
+            "winning": "9.9",
+            "class": "第一球",
+            "eval":"oneToFive",
+            "arguments":[1,0]
+          },
+          {
+            "name": "1",
+            "winning": "9.9",
+            "class": "第一球",
+            "eval":"oneToFive",
+            "arguments":[1,1]
+          },
+          {
+            "name": "2",
+            "winning": "9.9",
+            "class": "第一球",
+            "eval":"oneToFive",
+            "arguments":[1,2]
+          },
+          {
+            "name": "3",
+            "winning": "9.9",
+            "class": "第一球",
+            "eval":"oneToFive",
+            "arguments":[1,3]
+          },
+          {
+            "name": "4",
+            "winning": "9.9",
+            "class": "第一球",
+            "eval":"oneToFive",
+            "arguments":[1,4]
+          },
+          {
+            "name": "5",
+            "winning": "9.9",
+            "class": "第一球",
+            "eval":"oneToFive",
+            "arguments":[1,5]
+          },
+          {
+            "name": "6",
+            "winning": "9.9",
+            "class": "第一球",
+            "eval":"oneToFive",
+            "arguments":[1,6]
+          },
+          {
+            "name": "7",
+            "winning": "9.9",
+            "class": "第一球",
+            "eval":"oneToFive",
+            "arguments":[1,7]
+          },
+          {
+            "name": "8",
+            "winning": "9.9",
+            "class": "第一球",
+            "eval":"oneToFive",
+            "arguments":[1,8]
+          },
+          {
+            "name": "9",
+            "winning": "9.9",
+            "class": "第一球",
+            "eval":"oneToFive",
+            "arguments":[1,9]
+          }
+        ]
+      },
+      {
+        "title": "第二球",
+        "detail": [
+          {
+            "name": "0",
+            "winning": "9.9",
+            "class": "第二球",
+            "eval":"oneToFive",
+            "arguments":[2,0]
+          },
+          {
+            "name": "1",
+            "winning": "9.9",
+            "class": "第二球",
+            "eval":"oneToFive",
+            "arguments":[2,1]
+          },
+          {
+            "name": "2",
+            "winning": "9.9",
+            "class": "第二球",
+            "eval":"oneToFive",
+            "arguments":[2,2]
+          },
+          {
+            "name": "3",
+            "winning": "9.9",
+            "class": "第二球",
+            "eval":"oneToFive",
+            "arguments":[2,3]
+          },
+          {
+            "name": "4",
+            "winning": "9.9",
+            "class": "第二球",
+            "eval":"oneToFive",
+            "arguments":[2,4]
+          },
+          {
+            "name": "5",
+            "winning": "9.9",
+            "class": "第二球",
+            "eval":"oneToFive",
+            "arguments":[2,5]
+          },
+          {
+            "name": "6",
+            "winning": "9.9",
+            "class": "第二球",
+            "eval":"oneToFive",
+            "arguments":[2,6]
+          },
+          {
+            "name": "7",
+            "winning": "9.9",
+            "class": "第二球",
+            "eval":"oneToFive",
+            "arguments":[2,7]
+          },
+          {
+            "name": "8",
+            "winning": "9.9",
+            "class": "第二球",
+            "eval":"oneToFive",
+            "arguments":[2,8]
+          },
+          {
+            "name": "9",
+            "winning": "9.9",
+            "class": "第二球",
+            "eval":"oneToFive",
+            "arguments":[2,9]
+          }
+        ]
+      },
+      {
+        "title": "第三球",
+        "detail": [
+          {
+            "name": "0",
+            "winning": "9.9",
+            "class": "第三球",
+            "eval":"oneToFive",
+            "arguments":[3,0]
+          },
+          {
+            "name": "1",
+            "winning": "9.9",
+            "class": "第三球",
+            "eval":"oneToFive",
+            "arguments":[3,1]
+          },
+          {
+            "name": "2",
+            "winning": "9.9",
+            "class": "第三球",
+            "eval":"oneToFive",
+            "arguments":[3,2]
+          },
+          {
+            "name": "3",
+            "winning": "9.9",
+            "class": "第三球",
+            "eval":"oneToFive",
+            "arguments":[3,3]
+          },
+          {
+            "name": "4",
+            "winning": "9.9",
+            "class": "第三球",
+            "eval":"oneToFive",
+            "arguments":[3,4]
+          },
+          {
+            "name": "5",
+            "winning": "9.9",
+            "class": "第三球",
+            "eval":"oneToFive",
+            "arguments":[3,5]
+          },
+          {
+            "name": "6",
+            "winning": "9.9",
+            "class": "第三球",
+            "eval":"oneToFive",
+            "arguments":[3,6]
+          },
+          {
+            "name": "7",
+            "winning": "9.9",
+            "class": "第三球",
+            "eval":"oneToFive",
+            "arguments":[3,7]
+          },
+          {
+            "name": "8",
+            "winning": "9.9",
+            "class": "第三球",
+            "eval":"oneToFive",
+            "arguments":[3,8]
+          },
+          {
+            "name": "9",
+            "winning": "9.9",
+            "class": "第三球",
+            "eval":"oneToFive",
+            "arguments":[3,9]
+          }
+        ]
+      },
+      {
+        "title": "第四球",
+        "detail": [
+          {
+            "name": "0",
+            "winning": "9.9",
+            "class": "第四球",
+            "eval":"oneToFive",
+            "arguments":[4,0]
+          },
+          {
+            "name": "1",
+            "winning": "9.9",
+            "class": "第四球",
+            "eval":"oneToFive",
+            "arguments":[4,1]
+          },
+          {
+            "name": "2",
+            "winning": "9.9",
+            "class": "第四球",
+            "eval":"oneToFive",
+            "arguments":[4,2]
+          },
+          {
+            "name": "3",
+            "winning": "9.9",
+            "class": "第四球",
+            "eval":"oneToFive",
+            "arguments":[4,3]
+          },
+          {
+            "name": "4",
+            "winning": "9.9",
+            "class": "第四球",
+            "eval":"oneToFive",
+            "arguments":[4,4]
+          },
+          {
+            "name": "5",
+            "winning": "9.9",
+            "class": "第四球",
+            "eval":"oneToFive",
+            "arguments":[4,5]
+          },
+          {
+            "name": "6",
+            "winning": "9.9",
+            "class": "第四球",
+            "eval":"oneToFive",
+            "arguments":[4,6]
+          },
+          {
+            "name": "7",
+            "winning": "9.9",
+            "class": "第四球",
+            "eval":"oneToFive",
+            "arguments":[4,7]
+          },
+          {
+            "name": "8",
+            "winning": "9.9",
+            "class": "第四球",
+            "eval":"oneToFive",
+            "arguments":[4,8]
+          },
+          {
+            "name": "9",
+            "winning": "9.9",
+            "class": "第四球",
+            "eval":"oneToFive",
+            "arguments":[4,9]
+          }
+        ]
+      },
+      {
+        "title": "第五球",
+        "detail": [
+          {
+            "name": "0",
+            "winning": "9.9",
+            "class": "第五球",
+            "eval":"oneToFive",
+            "arguments":[5,0]
+          },
+          {
+            "name": "1",
+            "winning": "9.9",
+            "class": "第五球",
+            "eval":"oneToFive",
+            "arguments":[5,1]
+          },
+          {
+            "name": "2",
+            "winning": "9.9",
+            "class": "第五球",
+            "eval":"oneToFive",
+            "arguments":[5,2]
+          },
+          {
+            "name": "3",
+            "winning": "9.9",
+            "class": "第五球",
+            "eval":"oneToFive",
+            "arguments":[5,3]
+          },
+          {
+            "name": "4",
+            "winning": "9.9",
+            "class": "第五球",
+            "eval":"oneToFive",
+            "arguments":[5,4]
+          },
+          {
+            "name": "5",
+            "winning": "9.9",
+            "class": "第五球",
+            "eval":"oneToFive",
+            "arguments":[5,5]
+          },
+          {
+            "name": "6",
+            "winning": "9.9",
+            "class": "第五球",
+            "eval":"oneToFive",
+            "arguments":[5,6]
+          },
+          {
+            "name": "7",
+            "winning": "9.9",
+            "class": "第五球",
+            "eval":"oneToFive",
+            "arguments":[5,7]
+          },
+          {
+            "name": "8",
+            "winning": "9.9",
+            "class": "第五球",
+            "eval":"oneToFive",
+            "arguments":[5,8]
+          },
+          {
+            "name": "9",
+            "winning": "9.9",
+            "class": "第五球",
+            "eval":"oneToFive",
+            "arguments":[5,9]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bigClass": "猜总和",
+    "data": [
+      {
+        "title": "猜总和",
+        "detail": [
+          {
+            "name": "大",
+            "winning": "1.99",
+            "class": "第一球",
+            "eval":"big",
+            "arguments":[1]
+          },
+          {
+            "name": "小",
+            "winning": "1.99",
+            "class": "第一球",
+            "eval":"small",
+            "arguments":[1]
+          },
+          {
+            "name": "单",
+            "winning": "1.99",
+            "class": "第一球",
+            "eval":"odd",
+            "arguments":[1]
+          },
+          {
+            "name": "双",
+            "winning": "1.99",
+            "class": "第一球",
+            "eval":"even",
+            "arguments":[1]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bigClass": "猜龙虎",
+    "data": [
+      {
+        "title": "猜龙虎",
+        "detail": [
+          {
+            "name": "龙",
+            "winning": "1.99",
+            "class": "第一球",
+            "eval":"big",
+            "arguments":[1]
+          },
+          {
+            "name": "虎",
+            "winning": "1.99",
+            "class": "第一球",
+            "eval":"small",
+            "arguments":[1]
+          },
+          {
+            "name": "和",
+            "winning": "1.99",
+            "class": "第一球",
+            "eval":"odd",
+            "arguments":[1]
+          }
+        ]
+      }
+    ]
+  }
+]

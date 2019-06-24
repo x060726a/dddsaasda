@@ -1,0 +1,71 @@
+.comBox {
+  height: 100%;
+  .header {
+    position: relative; height: 100px; color: white; font-size: 40px; line-height: 100px; text-align: center; background: $theme-color;
+  }
+  .content {
+    margin-top: 115px;
+    .logo {
+      display: block; width: 180px; height: 180px; margin: 0 auto 91px; background: url("~@/assets/image/Log_Reg/logo.png") no-repeat center; background-size: cover;
+    }
+    .form {
+      padding: 0 70px;
+      div {
+        position: relative; padding: 0 0 0 60px; border-bottom: 1px solid #d2d2d2;
+        input {
+          display: block; width: 100%; height: 30px; padding: 48px 0 20px; color: #999; font-size: 30px; line-height: 30px; box-sizing: content-box;
+        }
+        .code {
+          position: absolute; top: 45px; right: 0; color: $theme-color; font-size: 24px;
+        }
+        .codeGry { color: #999 }
+        .icon { position: absolute; left: 10px; }
+        .showEye {
+          position: absolute; right: 25px; top: 45px; width: 44px; height: 37px; background: url("~@/assets/image/Log_Reg/showPwd.png") no-repeat center; background-size: cover;
+        }
+        .closeEye {
+          position: absolute; right: 25px; top: 60px; width: 44px; height: 21px; background: url("~@/assets/image/Log_Reg/closePwd.png") no-repeat center; background-size: cover;
+        }
+        .i_u {
+          top: 50px; width: 23px; height: 26px;  background: url("~@/assets/image/Log_Reg/people@2x.png") no-repeat center; background-size: cover;
+        }
+        .i_ph {
+          top: 50px; width: 29px; height: 29px; background: url("~@/assets/image/Log_Reg/icon-phone.png") no-repeat center; background-size: cover;
+        }
+        .i_p {
+          top: 55px; width: 30px; height: 18px; background: url("~@/assets/image/Log_Reg/key@2x.png") no-repeat center; background-size: cover;
+        }
+        .i_c {
+          top: 45px; width: 23px; height: 36px; background: url("~@/assets/image/Log_Reg/icon-iphone@2x.png") no-repeat center; background-size: cover;
+        }
+      }
+      .com_btn {
+        display: block; width: 100%; height: 90px; margin: 45px 0 30px; color: white; font-size: 34px; background: $theme-color; text-align: center; border-radius: 6px;
+      }
+      .info {
+        height: 30px; text-align: center; font-size: 30px; line-height: 30px;
+        a {
+          display: inline-block; padding: 0 20px; color: #999; border-right: 1px solid #d2d2d2;
+        }
+        a:last-child {
+          border: none;
+        }
+      }
+    }
+  }
+  .kefu {
+    i {
+      float: left; width: 42px; height: 44px; margin-top: -10px; margin-right: 10px;  background: url("~@/assets/image/Log_Reg/service.png") no-repeat center; background-size: cover;
+    }
+    position: absolute; top: 30px; right: 36px; height: 28px; font-size: 28px; line-height: 28px;
+  }
+  //.forgetH {
+  //  position: relative;
+  //  .kefu {
+  //    i {
+  //      float: left; width: 23px; height: 26px; margin-right: 10px;  background: url("~@/assets/image/Log_Reg/service@2x@2x.png") no-repeat center; background-size: cover;
+  //    }
+  //    position: absolute; top: 30px; right: 36px; height: 28px; font-size: 28px; line-height: 28px;
+  //  }
+  //}
+}
